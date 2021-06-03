@@ -11,12 +11,6 @@
 # production
 /build
 
-#configs
-.eslintignore
-.eslintrc.json
-.editorconfig
-prettier.config.js
-
 # misc
 .DS_Store
 .env.local
